@@ -11,3 +11,8 @@ Ei = (Pi + Ki) mod 26
 
 Decryption
 Di = (Ei - Ki) mod 26
+
+
+
+
+this is a python program that can encrypt and decrypt text using vigenere cipher algorithm . allow users to input a message and a key value to perform encryption and decryption
